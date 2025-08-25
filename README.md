@@ -1,7 +1,5 @@
 <!-- 🟣 Header Banner - Full Center -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02B3E4,100:43FACB&height=220&fontSize=56&text=Harshit%20Soni&animation=fadeIn&fontAlign=50&fontAlignY=40&desc=AI%20Engineer%20+%20System%20Designer%20+%20Visionary&descSize=30&descAlign=50&descAlignY=70" />
-</p>
+
 
 <p align="center">
   <img width="2000" height="600" alt="Dark Blue Pixel Retro Digital Marketing LinkedIn Article Cover Image" src="https://github.com/user-attachments/assets/3d4a3986-a3dd-428e-ba4d-8826992d0c71" />
@@ -15,10 +13,18 @@
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Harshitsoni294/profile-3d-contrib/main/profile-night-blue.svg" width="70%"/>
-</p>
 
+<!-- Toolbox (icons + yaml, all centered) -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,react,fastapi,docker,git,github,mysql,mongodb,vscode,linux&theme=light" height="48"/>
+</p>
+<p align="center">
+  <b>Languages:</b> Python, JS, C++ &nbsp; | &nbsp;
+  <b>Stack:</b> PyTorch, TensorFlow, LangChain, RAG, FastAPI, ChromaDB, Docker
+</p>
+<p align="center">
+  <b>Web & Data:</b> MySQL, MongoDB, React, GitHub Actions
+</p>
 ---
 
 <p align="center">
@@ -33,24 +39,15 @@
   <img src="https://octodex.github.com/images/dinotocat.png" width="110"/>
 </p>
 <p align="center">
-  <b>IIIT Vadodara-Diu | Bhanpura, MP</b> <br>
+  <b>IIIT Vadodara </b> <br>
+  <b>Bhanpura, MP</b> <br>
   <b>AI Engineer | Full-Stack Innovator</b> <br>
   <b>Email:</b> <a href="mailto:harshitsoni2026@gmail.com">harshitsoni2026@gmail.com</a>
 </p>
 
 ---
 
-<!-- Toolbox (icons + yaml, all centered) -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,react,fastapi,docker,git,github,mysql,mongodb,vscode,linux&theme=light" height="48"/>
-</p>
-<p align="center">
-  <b>Languages:</b> Python, JS, C++ &nbsp; | &nbsp;
-  <b>Stack:</b> PyTorch, TensorFlow, LangChain, RAG, FastAPI, ChromaDB, Docker
-</p>
-<p align="center">
-  <b>Web & Data:</b> MySQL, MongoDB, React, GitHub Actions
-</p>
+
 
 ---
 
@@ -85,17 +82,14 @@
 
 <div align="center">
 
-## 🏆 Trophies & Highlights
-
+## 💼 Experience
 <img src="https://github-profile-trophy.vercel.app/?username=Harshitsoni294&theme=gruvbox&column=7&margin-w=5&no-frame=true"/>
 
 <br>
 <b>Achievements:</b>
 <ul>
-  <li>🎓 Microsoft AI & Azure Intern (Edunet)</li>
-  <li>💼 Acxiom: Built planner AI, NLP memory systems</li>
-  <li>🥉 Deloitte/NVIDIA DLI/TCS CodeVita top 1%</li>
-  <li>👑 4★CodeChef (Global #1885), Code Voyage III Bronze</li>
+  <li>🖥️ Microsoft AI & Azure Intern (Microsoft x Edunet)</li>
+  <li>🤖 Project Intern (Acxiom Technologies LLP)</li>
 </ul>
 </div>
 
@@ -103,14 +97,27 @@
 
 <div align="center">
 
-## 📊 Always-On Portfolio Stats
+<img width="80" src="https://img.icons8.com/color/96/codechef.png" alt="CodeChef"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshitsoni294&theme=tokyonight&hide_border=true" /><br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshitsoni294&theme=aurora&hide_border=true&custom_title=My%20Contribution%20Flow"/>
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=Harshitsoni294&show_icons=true&theme=tokyonight&hide_border=true" />
+<h3>⭐ CodeChef Profile</h3>
+
+<div align="center">
+
+![Rating](https://img.shields.io/badge/Rating-4_Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
+![Global Rank](https://img.shields.io/badge/Global_Rank-1885-FF6B35?style=for-the-badge&logo=target&logoColor=white)
+![Problems Solved](https://img.shields.io/badge/Problems_Solved-300+-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white)
+
+[![View Profile](https://img.shields.io/badge/View_Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/Harshitsoni294)
 
 </div>
+
+**🏆 Highlights:**
+- 🔥 Competitive programming excellence  
+- ⚡ Advanced algorithms & problem solving  
+- 🧮 Strong mastery over Data Structures  
+
+</div>
+
 <br>
 
 ---
