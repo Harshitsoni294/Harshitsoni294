@@ -1,94 +1,85 @@
-<!-- Harshit's Epic GitHub Cover Page -->
+<!-- Futuristic GitHub Profile -->
 <div align="center">
 
-# 👋 Hi, I’m **Harshit Soni**  
-🎨 AI Engineer • Creative Coder • Futurist  
+# ⚡ Harshit Soni ⚡  
+**AI Engineer | Creative Coder | Dreaming in Neural Networks**
 
-✨ Turning ideas into **AI-powered realities** with a pinch of creativity 🚀  
+<img src="https://raw.githubusercontent.com/Harshitsoni294/Harshitsoni294/main/assets/galaxy-banner.gif" width="100%" />
 
-<img src="https://github.com/Harshitsoni294/Harshitsoni294/blob/main/assets/banner.gif" width="100%" />
-
----
-
-### 🌌 About Me
-💡 Exploring **AI Agents, Generative AI, and RAG systems**  
-🎶 Built a **Natural TTS System** with Tacotron2 + HiFi-GAN  
-🛠️ Playing with **LangChain + Hugging Face + FastAPI**  
-🎯 Goal: **Making AI human-like and scalable**  
+</div>
 
 ---
 
-## 📊 My (Hyper Active 😉) GitHub World  
+## 🌌 Welcome to My Universe  
 
-### Fake Contribution Grid 🌱
-> Even if I take a nap, my code doesn’t 😎  
-
-![Fake Green Grid](https://raw.githubusercontent.com/Harshitsoni294/Harshitsoni294/main/assets/fake-contributions-grid.gif)  
-
----
-
-### 🐍 Snake Eating My Contributions
-> Watch the snake gobble up my commits 🐍  
-
-![snake gif](https://github.com/Harshitsoni294/Harshitsoni294/blob/output/github-contribution-grid-snake.svg)
+🚀 I build **AI Agents**, **Generative AI apps**, and **Voice Intelligence**.  
+🎨 My GitHub is not just code… it’s **art, experiments & futuristic ideas**.  
+💡 Currently hacking with **LangChain, Hugging Face, FastAPI, React, PyTorch**.  
 
 ---
 
-## ✨ Featured Projects (Click to Explore)  
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="#"><img src="https://github.com/Harshitsoni294/Harshitsoni294/blob/main/assets/tts.gif" width="200px"/><br/>
-      🎤 Natural TTS System</a><br/>
-      <sub>Human-like speech with Tacotron2 + HiFi-GAN</sub>
-    </td>
-    <td align="center">
-      <a href="#"><img src="https://github.com/Harshitsoni294/Harshitsoni294/blob/main/assets/agent.gif" width="200px"/><br/>
-      🤖 MCP-Agent</a><br/>
-      <sub>Offline multi-agent AI system (92% accuracy)</sub>
-    </td>
-    <td align="center">
-      <a href="#"><img src="https://github.com/Harshitsoni294/Harshitsoni294/blob/main/assets/sentix.gif" width="200px"/><br/>
-      📊 SentiX.AI</a><br/>
-      <sub>AI-powered sentiment analysis & reporting</sub>
-    </td>
-  </tr>
-</table>
+## 🟩 Fake Contribution Galaxy  
 
----
-
-## 🎨 3D Animated Badges & Skills  
+Even when I sleep, my commits shine 🌟  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,js,react,fastapi,docker,mysql,mongodb,git,azure,linux" /><br/>
+  <img src="https://raw.githubusercontent.com/Harshitsoni294/Harshitsoni294/main/assets/fake-green-galaxy.gif" width="600px"/>
 </p>
 
 ---
 
-## ⚡ Fun Section  
+## 🐍 Snake in The Grid  
 
-🎮 Random Dev Quote:  
+Watch the **snake eat my commits** (because why not?)  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Harshitsoni294/Harshitsoni294/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+## 🎮 My Projects (Game-Style Cards)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Harshitsoni294/Harshitsoni294/main/assets/card-tts.gif" width="250px"/>
+  <img src="https://raw.githubusercontent.com/Harshitsoni294/Harshitsoni294/main/assets/card-agent.gif" width="250px"/>
+  <img src="https://raw.githubusercontent.com/Harshitsoni294/Harshitsoni294/main/assets/card-sentix.gif" width="250px"/>
+</p>
+
+---
+
+## 🧬 My Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,js,react,fastapi,docker,mysql,mongodb,git,azure" /><br/>
+</p>
+
+---
+
+## 🔮 Fun Animations  
+
+**Random Dev Quote:**  
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
 
-🎲 Random Meme (AI Generated):  
-<img src="https://github.com/Harshitsoni294/Harshitsoni294/blob/main/assets/fun-meme.gif" width="400px"/>  
-
----
-
-## 📬 Connect with Me  
-
+**Hackerman Mode ON:**  
 <p align="center">
-  <a href="mailto:harshitsoni2026@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/harshitsoni29"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <img src="https://raw.githubusercontent.com/Harshitsoni294/Harshitsoni294/main/assets/hackerman.gif" width="400px"/>
 </p>
 
 ---
 
 <div align="center">
 
-💡 _"Code is like art — the cleaner it is, the louder it speaks."_  
+## 🌈 Connect With Me  
 
-<img src="https://github.com/Harshitsoni294/Harshitsoni294/blob/main/assets/footer.gif" width="100%"/>
+<a href="mailto:harshitsoni2026@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/harshitsoni29"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+---
+
+<img src="https://raw.githubusercontent.com/Harshitsoni294/Harshitsoni294/main/assets/footer-neon.gif" width="100%"/>
+
+💡 _"Not just coding… creating a **neon AI multiverse**."_
 
 </div>
