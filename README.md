@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1100&color=00e7ff&center=true&vCenter=true&width=800&height=50&lines=👾+AI+Magician+%7C+Modular+Systems+Architect;AI+Accuracy+Fanatic+%7C+40%25+Hallucination+Reducer;Code.+Build.+Innovate.+Repeat."/>
+  <img width="2000" height="600" alt="Dark Blue Pixel Retro Digital Marketing LinkedIn Article Cover Image" src="https://github.com/user-attachments/assets/3d4a3986-a3dd-428e-ba4d-8826992d0c71" />
 </p>
 
 ---
