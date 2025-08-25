@@ -36,7 +36,8 @@
 <!-- Bio All Centered -->
 
 <p align="center">
-  <img src="https://octodex.github.com/images/dinotocat.png" width="110"/>
+  <img width="1920" height="1920" alt="smile" src="https://github.com/user-attachments/assets/c0a17864-dfef-437d-afd7-6c761b97264e" />
+
 </p>
 <p align="center">
   <b>IIIT Vadodara </b> <br>
@@ -105,7 +106,6 @@
 
 ![Rating](https://img.shields.io/badge/Rating-4_Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
 ![Global Rank](https://img.shields.io/badge/Global_Rank-1885-FF6B35?style=for-the-badge&logo=target&logoColor=white)
-![Problems Solved](https://img.shields.io/badge/Problems_Solved-300+-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white)
 
 [![View Profile](https://img.shields.io/badge/View_Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/Harshitsoni294)
 
