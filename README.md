@@ -36,7 +36,7 @@
 <!-- Bio All Centered -->
 
 <p align="center">
-  <img width="1920" height="1920" alt="smile" src="https://github.com/user-attachments/assets/c0a17864-dfef-437d-afd7-6c761b97264e" />
+  <img width="200" height="200" alt="smile" src="https://github.com/user-attachments/assets/c0a17864-dfef-437d-afd7-6c761b97264e" />
 
 </p>
 <p align="center">
