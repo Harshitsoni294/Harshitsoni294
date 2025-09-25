@@ -162,9 +162,9 @@
 
 ## 🌈 Let’s Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harshit-soni/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=firefox-browser)](https://harshitsoni294.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail)](mailto:harshitsoni2026@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/harshitsoni29)
+[![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=firefox-browser)](https://harshitsoni.me/)
+[![Email](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=harshitsoni2026@gmail.com&su=Job%20Opportunity%20at%20Company%20Name&body=Hey%20Harshit,%0A%0AWe%20are%20impressed%20by%20your%20GitHub%20account.%20We%20would%20like%20to%20offer%20you%20a%20job%20at%20[Company%20Name]%20for%20the%20[position]%20we%20are%20currently%20hiring%20for.%0A%0APlease%20let%20us%20know%20if%20you%20are%20interested.%0A%0ABest%20regards,%0A[Your%20Name])
 
 </div>
 <br>
